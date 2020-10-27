@@ -22,11 +22,11 @@ enable_jsdelivr = {
 site_name = "我的个人博客"
 site_logo = "${static_prefix}logo.png"
 site_build_date = "2019-12-18T16:51+08:00"
-author = "熊猫小A"
-email = "hi@imalan.cn"
+author = "xiaoze1332"
+email = "chenyuqiao0815@163.com"
 author_homepage = "https://www.imalan.cn"
 description = "只坚持一种正义。我的正义。"
-key_words = ['Maverick', '熊猫小A', 'Galileo', 'blog']
+key_words = ['Maverick', 'xiaoze1332', 'Galileo', 'blog']
 language = 'zh-CN'
 external_links = [
     {
